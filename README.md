@@ -126,6 +126,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 ### 7) Systems architecture
 
 * Read chapters about Stability 3, 4, 5 and Capacity 8, 9, 10 of [Release It!](https://pragprog.com/book/mnee/release-it) ```#onboarding```
+* Consider Security in Agile SDLC [INSF-6840 Development Methods] (https://www.umsl.edu/~sauterv/analysis/F2015/Integrating%20Security%20into%20Agile%20methodologies.html.htm)
 
 ## Beyond Software Development
 
